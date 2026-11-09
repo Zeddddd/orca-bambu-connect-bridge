@@ -2,6 +2,8 @@
 
 这是一个 Windows 托盘小工具。它监视你指定的文件夹，等 OrcaSlicer 写完拓竹机型的单盘切片，再唤醒 Bambu Connect 并交给它这份文件。导入和打印由你在 Bambu Connect 中确认。[拓竹第三方软件对接说明](https://blog.bambulab.com/updates-and-third-party-integration-with-bambu-connect/)
 
+[下载 Windows 即用版](https://github.com/Zeddddd/orca-bambu-connect-bridge/releases/latest)
+
 ## 使用方法
 
 1. 在 Windows 10 或 11 上安装 Bambu Connect，再打开本项目构建的 `Orca-Bambu-Connect.exe`。

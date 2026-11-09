@@ -22,7 +22,7 @@
 
 ## 图标
 
-仓库自带原创双色图标，源码构建可以直接使用。如果希望在本机生成双品牌图标，可用 Pillow 和本机安装的 OrcaSlicer、Bambu Studio 图标文件。官方图标归各自权利人所有，仓库不分发这些图标。
+仓库源码自带原创双色图标，源码构建可以直接使用。如果希望在本机生成双品牌图标，可用 Pillow 和本机安装的 OrcaSlicer、Bambu Studio 图标文件。官方图标归各自权利人所有。
 
 ```powershell
 python -m pip install Pillow
