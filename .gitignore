@@ -1,0 +1,16 @@
+/artifacts/
+/bin/
+/obj/
+/.vs/
+__pycache__/
+*.user
+*.suo
+*.log
+*.exe
+*.zip
+*.gcode
+*.3mf
+WatchFolder.txt
+ConnectPath.txt
+received.txt
+received.tmp
